@@ -11,6 +11,11 @@ public class APITest {
 		System.out.println("restAPI");
 		System.out.println("restAPI1");
 		System.out.println("restAPI2");
+
+		System.out.println("restAPI3");
+		System.out.println("restAPI4");
+		System.out.println("restAPI5");
+		
 	}
 	
 	@Test
