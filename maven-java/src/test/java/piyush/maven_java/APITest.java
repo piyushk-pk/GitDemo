@@ -9,6 +9,8 @@ public class APITest {
 	@Test
 	public void restAPI() {
 		System.out.println("restAPI");
+		System.out.println("restAPI1");
+		System.out.println("restAPI2");
 	}
 	
 	@Test
