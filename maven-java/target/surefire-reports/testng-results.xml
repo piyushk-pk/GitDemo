@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+      <class name="piyush.maven_java.WebTest">
+        <test-method status="PASS" signature="WebPage()[pri:0, instance:piyush.maven_java.WebTest@7bc1a03d]" name="WebPage" duration-ms="0" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebPage -->
+        <test-method status="PASS" signature="WebPageOnMobile()[pri:0, instance:piyush.maven_java.WebTest@7bc1a03d]" name="WebPageOnMobile" duration-ms="0" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebPageOnMobile -->
+      </class> <!-- piyush.maven_java.WebTest -->
+      <class name="piyush.maven_java.MobileTest">
+        <test-method status="PASS" signature="mobileTest()[pri:0, instance:piyush.maven_java.MobileTest@70b0b186]" name="mobileTest" duration-ms="0" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest -->
+      </class> <!-- piyush.maven_java.MobileTest -->
+      <class name="piyush.maven_java.APITest">
+        <test-method status="PASS" signature="APIonMobile()[pri:0, instance:piyush.maven_java.APITest@ba8d91c]" name="APIonMobile" duration-ms="0" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIonMobile -->
+        <test-method status="PASS" signature="restAPI()[pri:0, instance:piyush.maven_java.APITest@ba8d91c]" name="restAPI" duration-ms="0" started-at="2021-02-01T09:44:43Z" finished-at="2021-02-01T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI -->
+      </class> <!-- piyush.maven_java.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
